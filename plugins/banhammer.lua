@@ -9,6 +9,7 @@
 --]]
 
 
+
 local function pre_process(msg)
   local data = load_data(_config.moderation.data)
   -- SERVICE MESSAGE
@@ -117,13 +118,13 @@ local function kick_ban_res(extra, success, result)
 			return
          end
          if is_momod2(member_id, chat_id) and not is_admin2(sender) then
-            send_large_msg(receiver, "You can't kick mods/Leader/admins")
+            send_large_msg(receiver, "You can't kick mods/owner/admins")
 			return
          end
 		 kick_user(member_id, chat_id)
       elseif get_cmd == 'ban' then
         if is_momod2(member_id, chat_id) and not is_admin2(sender) then
-			send_large_msg(receiver, "You can't ban mods/Leader/admins")
+			send_large_msg(receiver, "You can't ban mods/owner/admins")
 			return
         end
         send_large_msg(receiver, 'User @'..member..' ['..member_id..'] banned')
@@ -194,7 +195,7 @@ local support_id = msg.from.id
          	return
         end
         if not is_admin1(msg) and is_momod2(matches[2], msg.to.id) then
-          	return "you can't ban mods/Leader/admins"
+          	return "you can't ban mods/owner/admins"
         end
         if tonumber(matches[2]) == tonumber(msg.from.id) then
           	return "You can't ban your self !"
@@ -257,7 +258,7 @@ if matches[1]:lower() == 'kick' then
 			return
 		end
 		if not is_admin1(msg) and is_momod2(matches[2], msg.to.id) then
-			return "you can't kick mods/Leader/admins"
+			return "you can't kick mods/owner/admins"
 		end
 		if tonumber(matches[2]) == tonumber(msg.from.id) then
 			return "You can't kick your self !"
@@ -338,7 +339,7 @@ end
 return {
   patterns = {
     "^([Ss]ban) (.*)$",
-    "^([Ss]ban)$",
+    "^([SS]ban)$",
     "^([Bb]anlist) (.*)$",
     "^([Bb]anlist)$",
     "^([Gg]banlist)$",
@@ -347,8 +348,8 @@ return {
 	"^([Bb]an)$",
     "^([Bb]an) (.*)$",
     "^([Uu]nban) (.*)$",
-    "^([Uu]nbanall) (.*)$",
-    "^([Uu]nbanall)$",
+    "^([Uu]nsban) (.*)$",
+    "^([Uu]nsban)$",
     "^([Kk]ick) (.*)$",
     "^([Uu]nban)$",
     "^([Ii]d)$",
