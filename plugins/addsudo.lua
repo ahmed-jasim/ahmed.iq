@@ -35,11 +35,11 @@ if matches[1] == 'add dev' then
 return {
   description = "Invite Sudo and Admin", 
   usage = {
-    "/addsudo : invite Bot Sudo", 
+    "addsudo : invite Bot Sudo", 
 	},
   patterns = {
-    "^[!/#$](add dev)",
-    "^[!/#$](add dev)",
+    "^(add dev)",
+    "^(add dev)",
     "^(add dev)",
     "^(add dev)",
   }, 
