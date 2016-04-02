@@ -104,6 +104,9 @@ function run(msg, matches)
 ♣️ - clean username : لحذف معرف المجموعة
 ♣️ - clean mutelist : لحذف المكتومين 
 ➖🔸➖🔹➖🔸➖🔹➖
+♣️ - isup + رابط السيرفر
+♣️ - isup cron + رابط السيرفر
+يستعمل لجعل سيرفرك اقوى وغير قابل للتوقف 
 
 
 ♠️ - Dev - @Omar_Real7
