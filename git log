@@ -1,0 +1,137 @@
+[33mcommit e198d194d55f0ca863701720e8b20155bb0a6463[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 21:58:25 2016 +0300
+
+    updated readme file for better description
+
+[33mcommit 92a0e340f270e6aef154ad757e93339c6c12dd9a[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 20:40:34 2016 +0300
+
+    Update version.lua
+
+[33mcommit 60ad16229b227864b3b2fa80d153ad2e171622d3[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 20:36:14 2016 +0300
+
+    Update README.md
+
+[33mcommit 5aef5e623c9c25794367ea7a2dbe1f5ed747cdfd[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 20:34:50 2016 +0300
+
+    Update README.md
+
+[33mcommit 802693197222fb2917107324b121af1f6b8dc416[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 20:31:34 2016 +0300
+
+    Update help.lua
+
+[33mcommit 16c58511831f02bc4a7d4a4ee8f206481f835441[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 20:27:55 2016 +0300
+
+    Added files via upload
+
+[33mcommit a54133adb1e97e960ab8fd8cb24671f5d79d3597[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 20:26:10 2016 +0300
+
+    Added files via upload
+
+[33mcommit 76464ba7f361c9ddd684b6190e45053d64de9153[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 20:25:19 2016 +0300
+
+    Update addsudo.lua
+
+[33mcommit 9605bca22d04fedec756602afa9376294372f771[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 20:23:46 2016 +0300
+
+    Update banhammer.lua
+
+[33mcommit 031741f5eb2a596d66288e2a14b7496a2d4bd67c[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 18:23:59 2016 +0300
+
+    Update version.lua
+
+[33mcommit d3685af4fddfebb19cce85d869bbd0ce29797c1e[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 18:08:36 2016 +0300
+
+    Update README.md
+
+[33mcommit 86118d380a67f31265714a02dd8a5ed3725495b2[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 18:05:39 2016 +0300
+
+    Fixed errors added leave_ban.lua
+
+[33mcommit f957bd91f3032ae8db048a2624cafe6789fd4207[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 18:05:23 2016 +0300
+
+    Initial commit
+
+[33mcommit d33bee05e50c6bced59ad82ab3da36fe76684c49[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 18:04:55 2016 +0300
+
+    Added our tg with group link kick by reply Res_user support !
+
+[33mcommit 13744cd79e06463c22afc7e57d0aa55879264936[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 18:04:29 2016 +0300
+
+    Revert "Updates For Tesring pt 2"
+
+[33mcommit da0a119babbff3a567ab99225fad96cd4c07a427[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 18:03:52 2016 +0300
+
+    updated tg
+
+[33mcommit 712a9b9ba8411e0e9a2d91a62e219f0045f59266[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 18:02:15 2016 +0300
+
+    Added files via upload
+
+[33mcommit c3b44a8344dbd4e02e4c1d082e364cce24a409fa[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 18:00:54 2016 +0300
+
+    Added missing patches
+
+[33mcommit a2cc8a2ca6fa75749a695b67e1ee078d0a9c1b77[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 18:00:19 2016 +0300
+
+    RealBot v1.0 !
+
+[33mcommit f9baf0f9898c1fa1cc5d59e313d7d40c20c548d6[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 17:59:45 2016 +0300
+
+    Add direstory grouos
+
+[33mcommit fa765756b1db7e39cc38974aeef69edb114237a2[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 17:59:19 2016 +0300
+
+    Added data/photos folder
+
+[33mcommit 5d6a8383b2103583e696a4aa65e9db021fc061e1[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 17:58:14 2016 +0300
+
+    Improvement in seedbot.lua
+
+[33mcommit ad21bab0c076c6549bf8ee576d7df80bc5a47556[m
+Author: Omar-Real <realo865@gmail.com>
+Date:   Sat Apr 2 15:01:48 2016 +0300
+
+    Initial commit
